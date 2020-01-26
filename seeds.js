@@ -5,18 +5,18 @@ var mongoose = require("mongoose"),
 var data = [
     {
         name:"Clouds Rest",
-        image:"https://grist.files.wordpress.com/2017/05/tent-campsite-by-river.jpg?w=1024&h=576&crop=1",
-        description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        image:"https://source.unsplash.com/ELevCx8PX4o",
+        description:"camper overlooking cloud filled valley while taking a picture"
     },
     {
         name:"Idyllwild",
-        image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA7H4ZupvqXWPLZ0pBFzB8OfXJC5Ogf0Y0x-e722Z39uy0cVbVGA",
-        description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        image:"https://source.unsplash.com/pSaEMIiUO84",
+        description:"grey tent near mountain top lake"
     },
     {
         name:"Virgin Falls",
-        image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnPbEJFSmCJ-iVo9shBheCmOQfP25fSxY1-x7vp-5My-hC1PoUNw",
-        description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        image:"https://source.unsplash.com/WaNZvXEnYok",
+        description:"yellow dome tent on green grass field under night sky"
     }
 ]
     
